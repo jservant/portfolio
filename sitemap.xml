@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jservant.github.io/portfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jservant.github.io/portfolio/</loc>
+</url>
+<url>
+<loc>https://jservant.github.io/portfolio/lobber.html</loc>
+<lastmod>2025-01-12T15:36:40-05:00</lastmod>
+<image:image>
+<image:loc>https://jservant.github.io/portfolio/media/posts/3/oled.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jservant.github.io/portfolio/the-playwrights.html</loc>
+<lastmod>2025-01-12T15:27:21-05:00</lastmod>
+<image:image>
+<image:loc>https://jservant.github.io/portfolio/media/posts/2/Playwrights_notext_edited.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jservant.github.io/portfolio/media/posts/2/ThePlaywrights.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jservant.github.io/portfolio/media/posts/2/ThePlaywrights_Back.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
